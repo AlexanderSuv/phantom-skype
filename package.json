@@ -1,5 +1,5 @@
 {
-  "name": "phantom_skype",
+  "name": "phantom-skype",
   "version": "1.0.0",
   "description": "Phantom skype wrapper",
   "main": "index.js",
