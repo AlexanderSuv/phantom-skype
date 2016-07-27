@@ -1,9 +1,10 @@
+#!/usr/bin/env node
 'use strict';
 
 const async = require('async');
 
-const SkypeProcessor = require('./lib/SkypeProcessor');
-const Interface = require('./lib/cmdInterface');
+const SkypeProcessor = require('../lib/SkypeProcessor');
+const Interface = require('../lib/cmdInterface');
 
 const skypeProcessorInstance = new SkypeProcessor();
 
